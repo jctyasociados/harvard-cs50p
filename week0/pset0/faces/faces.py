@@ -1,5 +1,5 @@
 def main():
-    """ Python script that converts emoticons to smily emoji and to frowny emoji """
+    """ Python script that converts emoticons to smiley emoji and to frowney emoji """
     str_to_convert = input("Input string containing smiley or frowney emoticons: \n").strip()
     print(convert(str_to_convert))
 
