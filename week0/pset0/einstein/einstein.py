@@ -10,6 +10,7 @@ def convert(input_mass):
     """ Convert Mass to Energy """
     energy = input_mass * (300000000**2)
     return energy
+
     
 main()
 
